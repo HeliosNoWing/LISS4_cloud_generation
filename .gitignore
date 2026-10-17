@@ -1,0 +1,11 @@
+datasets/
+combined/
+split/
+checkpoints/
+results/
+*.pth
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
